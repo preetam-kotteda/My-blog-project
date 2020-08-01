@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  background-color: black;
+  color:white;
+}
+
+.link{
+  color:blue;
+  /* background-color: blue; */
+}
+/* ion-icon{
+  color:red;
+} */
